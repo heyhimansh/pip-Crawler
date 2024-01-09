@@ -58,9 +58,6 @@ process_data(data)
 
 For more detailed information and advanced usage, refer to the documentation.
 
-## Documentation
-
-Visit our [documentation](https://github.com/your-username/universal-web-crawler) for in-depth guidance on using UniversalWebCrawler and making the most of its features.
 
 ## Contributing
 
@@ -72,6 +69,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For any questions or issues, please [open an issue](https://github.com/your-username/universal-web-crawler/issues) on GitHub.
+For any questions or issues, please [open an issue](https://github.com/heyhimansh/pip-Crawler/issues) on GitHub.
 
 Happy scraping with UniversalWebCrawler! 🌐✨
